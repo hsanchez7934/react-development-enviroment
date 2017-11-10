@@ -2,8 +2,7 @@
 
 React boilerplate
 
-npm run install
-To install dependencies
+npm install
 
 npm run build
 
